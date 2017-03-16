@@ -11,3 +11,45 @@
 ul.themes {
   float: right;
 }
+
+div > h3 {
+  font-size: 12pt;
+  font-weight: bold;
+  border: 1px solid lightgray;
+  padding: 3px;
+
+}
+
+.art1 {
+  padding: 10px;
+}
+
+.panel-info {
+  padding: 5px;
+}
+
+#wikipediaLogo {
+  height: 175px;
+  width: 175px;
+  background-color: white;
+  margin: 5px auto 5px;
+}
+
+#band {
+  display: inline;
+  float: left;
+  width: 150px;
+  padding: 5px;
+}
+
+#featured {
+  display: inline;
+  float: left;
+  width: 250px;
+  padding: 5px;
+}
+
+#aboutFeatured {
+  position: relative;
+  top: 85px;
+}
