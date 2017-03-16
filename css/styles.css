@@ -1,0 +1,13 @@
+.sidebar {
+  background-color: lightgray;
+  float: left;
+}
+
+.themeList {
+  display: inline;
+  float: right;
+}
+
+ul.themes {
+  float: right;
+}
